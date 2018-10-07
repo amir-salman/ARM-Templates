@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "vnetname": {
-            "value": "NP-AE-VNET"
+            "value": "NP-AE-VNET-3"
         },
         "vnetlocation": {
             "value": "australiaeast"
         },
         "addressPrefix": {
-            "value": "192.168.0.0/22"
+            "value": "192.168.16.0/22"
         },
         "subnetName": {
             "value": "default"
         },
         "subnetAddressPrefix": {
-            "value": "192.168.0.0/24"
+            "value": "192.168.16.0/24"
         },
         "enableDdosProtection": {
             "value": false
